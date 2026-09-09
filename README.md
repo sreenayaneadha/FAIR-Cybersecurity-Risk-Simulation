@@ -17,7 +17,9 @@ Many enterprise risk teams rely on subjective "heat maps" (Red/Yellow/Green) to 
 ## Executive Output Example
 *(Simulating 10,000 iterations of a high-impact enterprise data breach)*
 * **Annualized Probability of Occurrence:** 15.0%
+  
 * **Minimum Estimated Impact:** $500,000
+  
 * **Maximum Estimated Impact:** $50,000,000
 
 **Calculated Annualized Expected Loss:** $3,931,903.24
