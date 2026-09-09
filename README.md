@@ -15,13 +15,13 @@ Many enterprise risk teams rely on subjective "heat maps" (Red/Yellow/Green) to 
 * **Data Visualization:** `matplotlib` (Financial histogram generation)
 
 ## Executive Output Example
-*(Simulating 10,000 iterations of a high-impact enterprise data breach)*
+*(Simulating 10,000 iterations of a high-impact enterprise data breach e.g. Extreme Ransomware)*
 * **Annualized Probability of Occurrence:** 15.0%
 * **Minimum Estimated Impact:** $500,000
 * **Maximum Estimated Impact:** $50,000,000
 
 **Calculated Annualized Expected Loss:** $3,931,903.24
-**Maximum Worst-Case Exposure:** $49,973,303.71
 
+**Maximum Worst-Case Exposure:** $49,973,303.71
 
 ![Risk Distribution Curve](Risk_Distribution_Chart.png)
