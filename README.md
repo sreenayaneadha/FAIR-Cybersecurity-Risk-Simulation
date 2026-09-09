@@ -21,7 +21,6 @@ Many enterprise risk teams rely on subjective "heat maps" (Red/Yellow/Green) to 
 * **Maximum Estimated Impact:** $50,000,000
 
 **Calculated Annualized Expected Loss:** $3,931,903.24
-
 **Maximum Worst-Case Exposure:** $49,973,303.71
 
 ![Risk Distribution Curve](Risk_Distribution_Chart.png)
