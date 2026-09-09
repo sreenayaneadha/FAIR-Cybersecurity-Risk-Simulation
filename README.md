@@ -15,7 +15,7 @@ Provides quantitative predictions of cybsersecurity incidents of various severit
 * **Data Visualization:** `matplotlib` (Financial histogram generation)
 
 ## Output Example
-*(Simulating 10,000 iterations of a high-impact enterprise data breach e.g. Extreme Ransomware)*
+*(Simulating 10,000 iterations of a high-impact enterprise data breach e.g. Ransomware)*
 * **Annualized Probability of Occurrence:** 15.0%
 * **Minimum Estimated Impact:** $500,000
 * **Maximum Estimated Impact:** $50,000,000
