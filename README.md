@@ -12,7 +12,7 @@ Many enterprise risk teams rely on subjective "heat maps" (Red/Yellow/Green) to 
 ## Technical Stack
 * **Language:** Python
 * **Data Modeling:** `numpy` (Probability distribution and statistical sampling)
-* **Data Visualization:** `matplotlib` (Financial histogram generation)
+* **Data Visualization:** `matplotlib` `(Financial histogram generation)`
 
 ## Executive Output Example
 *(Simulating 10,000 iterations of a high-impact enterprise data breach)*
