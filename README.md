@@ -3,10 +3,10 @@
 ## Objective
 A Python-based Monte Carlo simulation engine that translates qualitative cybersecurity threats into quantitative financial risk models based on the Factor Analysis of Information Risk (FAIR) methodology. 
 
-## Business Value
-Many enterprise risk teams rely on subjective "heat maps" (Red/Yellow/Green) to assess cyber threats. This engine replaces qualitative guesswork with statistical probability, allowing Chief Information Security Officers (CISOs) and board members to make data-driven budget allocations for security controls. 
+## Purpose
+Provides quantitative predictions of cybsersecurity incidents of various severities.
 * Directly aligns with the SEC mandate for assessing the "material financial impact" of cyber incidents.
-* Calculates Annualized Expected Loss and Maximum Worst-Case Exposure.
+* Calculates Annualized Expected Loss and Maximum Worst-Case Incident.
 * Dynamically adjusts to model various threat profiles (e.g., Ransomware vs. Wire Fraud).
 
 ## Technical Stack
@@ -14,7 +14,7 @@ Many enterprise risk teams rely on subjective "heat maps" (Red/Yellow/Green) to 
 * **Data Modeling:** `numpy` (Probability distribution and statistical sampling)
 * **Data Visualization:** `matplotlib` (Financial histogram generation)
 
-## Executive Output Example
+## Output Example
 *(Simulating 10,000 iterations of a high-impact enterprise data breach e.g. Extreme Ransomware)*
 * **Annualized Probability of Occurrence:** 15.0%
 * **Minimum Estimated Impact:** $500,000
